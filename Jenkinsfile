@@ -10,7 +10,6 @@ pipeline {
             steps {
                 bat 'javac -version'
                 bat 'javac App.java AppTest.java'
-                bat 'java app'
             }
         }
         stage('Test') {
