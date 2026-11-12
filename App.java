@@ -4,7 +4,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println("25 * 9 = " + prod(25, 9));
+        System.out.println("20 * 9 = " + prod(20, 9));
         System.out.println("testing");
     }
 }
